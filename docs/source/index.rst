@@ -22,7 +22,8 @@ Contents
 
 .. toctree::
 
+   data_science
    usage
    api
 
-Lumache has its documentation hosted on Read the Docs.
+Cheers!
